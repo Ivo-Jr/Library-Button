@@ -2,4 +2,4 @@
 
 <p align="center" >
 <p align="center" >
-    <img alt="neon=button" src="https://gfycat.com/earnestblankcopperhead-neon.gif" width="260" height="510" />
+    <img alt="neon=button" src="https://thumbs.gfycat.com/EarnestBlankCopperhead.webp" width="260" height="510" />
