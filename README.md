@@ -1,4 +1,4 @@
-## Neon Buttonw wiht React:
+## Neon Button wiht React:
 
 <p align="center" >
 <p align="center" >
